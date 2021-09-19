@@ -14,6 +14,8 @@ body {
   text-align: center;
 }
 
+/*------INSTRUCTIONS------*/
+
 .instructions-title {
   display: inline;
   font-size: 18px;
@@ -46,13 +48,14 @@ body {
   height: 43px;
   font-family: "Work Sans";
   background-color: #eb6535;
-  font-size:18px;
+  font-size: 18px;
   text-align: center;
   color: #010165;
   margin-bottom: 21px;
   cursor: pointer;
 }
 
+/*------PORTES------*/
 .door-row {
   text-align: center;
 }
